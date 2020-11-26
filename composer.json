@@ -1,7 +1,7 @@
 {
     "name": "killeredy/teste_composer",
     "description": "Teste do composer",
-    "version": "1.0",
+    "version": "dev-master",
     "license": "MIT",
     "authors": [
         {
