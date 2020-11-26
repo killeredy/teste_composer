@@ -1,7 +1,8 @@
 {
     "name": "killeredy/teste_composer",
     "description": "Teste do composer",
-    "license": "MIT",
+    "version": "1.0",
+    "license": "propri",
     "authors": [
         {
             "name": "kleberSantos",
