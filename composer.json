@@ -8,6 +8,6 @@
             "email": "killeredy2@hotymail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {}
 }
